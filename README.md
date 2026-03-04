@@ -36,11 +36,11 @@ Debe ejecutarse como root.
 ---
 
 ## 🚀 Instalación
-
+```bash
 git clone https://github.com/dereeqw/EvilAP.git
 cd EvilAP
 chmod +x evilAP.py
-
+```
 ---
 
 ## ⚙️ Uso
