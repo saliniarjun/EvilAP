@@ -27,10 +27,10 @@ EvilAP crea un Access Point falso con portal cautivo, spoofing DNS y proxy HTTP 
 Sistema Linux (Kali recomendado)
 
 Instalar dependencias:
-
+```bash
 apt install hostapd dnsmasq iw iptables openssl tcpdump arping
 pip install prompt_toolkit
-
+```
 Debe ejecutarse como root.
 
 ---
